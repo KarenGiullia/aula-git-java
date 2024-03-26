@@ -13,7 +13,7 @@ public class Apresentacao {
     }
 
     private void KarenGiullia() {
-        System.out.println("Ola, sou a Karen");
+        System.out.println("Ola, sou a Karen!!");
         System.out.println("Estou colaborando com o git");
     }
 }
